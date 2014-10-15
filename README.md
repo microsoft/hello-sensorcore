@@ -32,7 +32,7 @@ http://msdn.microsoft.com/en-us/library/gg588378%28v=vs.92%29.aspx
 --------------------------------------------------------------------------------
 
 See the licence text file delivered with this project. The licence file is also
-available online at https://github.com/nokia-developer/steps/blob/master/Licence.txt
+available online at https://github.com/nokia-developer/hello-sensorcore/blob/master/Licence.txt
 
 
 3. Version history
