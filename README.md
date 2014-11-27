@@ -33,7 +33,7 @@ http://msdn.microsoft.com/en-us/library/gg588378%28v=vs.92%29.aspx
 --------------------------------------------------------------------------------
 
 See the licence text file delivered with this project. The licence file is also
-available online at https://github.com/nokia-developer/hello-sensorcore/blob/master/Licence.txt
+available online at https://github.com/Microsoft/hello-sensorcore/blob/master/Licence.txt
 
 
 3. Version history
@@ -46,15 +46,15 @@ available online at https://github.com/nokia-developer/hello-sensorcore/blob/mas
 
 | Project | Release | Download |
 | ------- | --------| -------- |
-| Steps | v1.0 | [hello-sensorcore-1.0.zip](https://github.com/nokia-developer/hello-sensorcore/archive/v1.0.zip) |
+| Steps | v1.0 | [hello-sensorcore-1.0.zip](https://github.com/Microsoft/hello-sensorcore/archive/v1.0.zip) |
 
 6. See also
 --------------------------------------------------------------------------------
 
 The projects listed below are exemplifying the usage of the SensorCore APIs
 
-* Steps -  https://github.com/nokia-developer/steps
-* Places - https://github.com/nokia-developer/places
-* Tracks - https://github.com/nokia-developer/tracks
-* Activities - https://github.com/nokia-developer/activities
-* Recorder - https://github.com/nokia-developer/recorder
+* Steps -  https://github.com/Microsoft/steps
+* Places - https://github.com/Microsoft/places
+* Tracks - https://github.com/Microsoft/tracks
+* Activities - https://github.com/Microsoft/activities
+* Recorder - https://github.com/Microsoft/recorder
