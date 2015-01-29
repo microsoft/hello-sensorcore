@@ -1,7 +1,7 @@
 hello-sensorcore
 ================
 
-Hello SensorCore is a getting started sample for Lumia SensorCore SDK. The sample shows how to initialise Step Counter API and to display the current Step Counter values. This sample is used as part of the Lumia SensorCore SDK's Quick Start guide, which provides step-by-step instructions for your first project utilizing Lumia SensorCore SDK: http://developer.nokia.com/resources/library/Lumia/sensorcore-sdk/quick-start.html
+Hello SensorCore is a getting started sample for Lumia SensorCore SDK. The sample shows how to initialise Step Counter API and to display the current Step Counter values. This sample is used as part of the Lumia SensorCore SDK's Quick Start guide, which provides step-by-step instructions for your first project utilizing Lumia SensorCore SDK.
  
 
 1. Instructions
