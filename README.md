@@ -29,26 +29,22 @@ Please see the official documentation for
 deploying and testing applications on Windows Phone devices:
 http://msdn.microsoft.com/en-us/library/gg588378%28v=vs.92%29.aspx
 
-2. Licence
+2. Version history
 --------------------------------------------------------------------------------
 
-See the licence text file delivered with this project. The licence file is also
-available online at https://github.com/Microsoft/hello-sensorcore/blob/master/Licence.txt
-
-
-3. Version history
---------------------------------------------------------------------------------
-
+* Version 1.0.0.1: 
+ * Some bug fixes made in this release.
 * Version 1.0: The first release.
 
-5. Downloads
+3. Downloads
 ---------
 
 | Project | Release | Download |
 | ------- | --------| -------- |
+| Steps | v1.0.0.1 | [hello-sensorcore-1.0.0.1.zip](https://github.com/Microsoft/hello-sensorcore/archive/v1.0.0.1.zip) |
 | Steps | v1.0 | [hello-sensorcore-1.0.zip](https://github.com/Microsoft/hello-sensorcore/archive/v1.0.zip) |
 
-6. See also
+4. See also
 --------------------------------------------------------------------------------
 
 The projects listed below are exemplifying the usage of the SensorCore APIs
