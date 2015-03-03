@@ -31,7 +31,8 @@ http://msdn.microsoft.com/en-us/library/gg588378%28v=vs.92%29.aspx
 
 2. Version history
 --------------------------------------------------------------------------------
-
+* Version 1.1.0.3:
+  * Updated to use latest Lumia SensorCore SDK 1.1 Preview
 * Version 1.0.0.1: 
  * Some bug fixes made in this release.
 * Version 1.0: The first release.
@@ -41,6 +42,7 @@ http://msdn.microsoft.com/en-us/library/gg588378%28v=vs.92%29.aspx
 
 | Project | Release | Download |
 | ------- | --------| -------- |
+| Steps | v1.1.0.3 | [hello-sensorcore-1.1.0.3.zip](https://github.com/Microsoft/hello-sensorcore/archive/v1.1.0.3.zip) |
 | Steps | v1.0.0.1 | [hello-sensorcore-1.0.0.1.zip](https://github.com/Microsoft/hello-sensorcore/archive/v1.0.0.1.zip) |
 | Steps | v1.0 | [hello-sensorcore-1.0.zip](https://github.com/Microsoft/hello-sensorcore/archive/v1.0.zip) |
 

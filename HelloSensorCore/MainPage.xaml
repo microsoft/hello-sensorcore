@@ -9,6 +9,9 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <ListBox x:Name="SensorcoreList"/>
+        <StackPanel>
+            <ListBox x:Name="SensorcoreList"/>
+            <Button x:Name="LoadButton" Content="Play preinstalled recording" Click="LoadButton_Click"/>
+        </StackPanel>
     </Grid>
 </Page>

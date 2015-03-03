@@ -1,4 +1,5 @@
-﻿/*	
+﻿/*
+The MIT License (MIT)
 Copyright (c) 2015 Microsoft
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -35,7 +36,6 @@ namespace HelloSensorCore
     /// </summary>
     public sealed partial class App : Application
     {
-
         private TransitionCollection transitions;
 
         /// <summary>
@@ -46,7 +46,6 @@ namespace HelloSensorCore
         {
             this.InitializeComponent();
             this.Suspending += this.OnSuspending;
-
         }
 
         /// <summary>
@@ -63,28 +62,22 @@ namespace HelloSensorCore
                 this.DebugSettings.EnableFrameRateCounter = true;
             }
 #endif
-
             Frame rootFrame = Window.Current.Content as Frame;
-
             // Do not repeat app initialization when the Window already has content,
             // just ensure that the window is active
             if (rootFrame == null)
             {
                 // Create a Frame to act as the navigation context and navigate to the first page
                 rootFrame = new Frame();
-
                 // TODO: change this value to a cache size that is appropriate for your application
                 rootFrame.CacheSize = 1;
-
                 if (e.PreviousExecutionState == ApplicationExecutionState.Terminated)
                 {
                     // TODO: Load state from previously suspended application
                 }
-
                 // Place the frame in the current Window
                 Window.Current.Content = rootFrame;
             }
-
             if (rootFrame.Content == null)
             {
                 // Removes the turnstile navigation for startup.
@@ -96,10 +89,8 @@ namespace HelloSensorCore
                         this.transitions.Add(c);
                     }
                 }
-
                 rootFrame.ContentTransitions = null;
                 rootFrame.Navigated += this.RootFrame_FirstNavigated;
-
                 // When the navigation stack isn't restored navigate to the first page,
                 // configuring the new page by passing required information as a navigation
                 // parameter
@@ -108,7 +99,6 @@ namespace HelloSensorCore
                     throw new Exception("Failed to create initial page");
                 }
             }
-
             // Ensure the current window is active
             Window.Current.Activate();
         }
@@ -135,7 +125,6 @@ namespace HelloSensorCore
         private void OnSuspending(object sender, SuspendingEventArgs e)
         {
             var deferral = e.SuspendingOperation.GetDeferral();
-
             // TODO: Save application state and stop any background activity
             deferral.Complete();
         }
